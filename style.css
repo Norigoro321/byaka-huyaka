@@ -4,3 +4,7 @@ body{
 li{
     margin-bottom: 10px;
 }
+.pravo{
+    margin-left: auto;
+    width: 250px;
+}
